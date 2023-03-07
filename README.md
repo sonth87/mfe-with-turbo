@@ -1,4 +1,4 @@
-# Turborepo starter with pnpm
+# Turborepo starter with yarn/npm
 
 This is an official starter turborepo.
 
